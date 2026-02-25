@@ -1,5 +1,5 @@
 # talentregister
-add talent
+add talent 
 <!DOCTYPE html>
 <html lang="th">
 <head>
